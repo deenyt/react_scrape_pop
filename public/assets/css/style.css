@@ -1,0 +1,33 @@
+.titles {
+	background-color: lightblue;
+    text-align: center;
+}
+img {
+	height: 3500px;
+	width: 80%;
+    text-align: center;
+
+}
+.jumbotron{
+    text-align: center;
+}
+.panel-heading h3 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: normal;
+    width: 75%;
+    padding-top: 8px;
+}
+
+#comment {
+    width: 390px;
+}
+
+.article-notes {
+    margin-left: 25px;
+}
+
+.btn-info {
+    margin-top: 40px;
+}
